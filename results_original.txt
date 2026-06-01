@@ -1,0 +1,27 @@
+,$100 000
+Avery,Unknown Net Worth
+Destin,Unknown Net Worth
+Skye,$1 000 000
+Peter,$1 000 000
+Roberto,-$1 000 000
+Bao,Unknown Net Worth
+Miki,Unknown Net Worth
+Emily,-$1 000 000
+Paul,$100 000
+David,$1 000 000
+Gavin,-$60
+Aiden,-$1 000 000
+Audrey,Unknown Net Worth
+Paul,-$60
+Kelvin,Unknown Net Worth
+Joshua,$1 000 000
+Angelo,$50
+Noah,-$1 000 000
+Jeffrey,Unknown Net Worth
+Nam,$1 000 000
+Danny,Unknown Net Worth
+Natalie,Unknown Net Worth
+Mr. Burke,-$1 000 000
+someone,67,2067,-$100 000
+Person,2027,68,$50 000
+Mr. Burke,2010,72,$18

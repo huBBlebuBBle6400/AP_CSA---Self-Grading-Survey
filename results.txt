@@ -1,0 +1,5 @@
+Mr. Burke,2010,72,$1 000 000
+Mr. Shibbles,2011,22,-$1 000 000
+Mr. Kibbles,2012,33,Incalculable Debt
+Zahee,2030,300,$1 000 000
+Mr. Sibberz,2011,11,$60
